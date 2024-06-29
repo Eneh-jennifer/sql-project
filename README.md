@@ -1,2 +1,8 @@
-# sql-project
-sales data
+#sales analysis
+- ffff
+
+- ```sql
+  SELECT *
+  FROM
+  WHERE BDS = 4
+  ```
